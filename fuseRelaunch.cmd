@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/PWR/sem 6/PUL/projekt/termometr/PCT2075/PCT2075_tb_isim_beh.exe" -prj "E:/PWR/sem 6/PUL/projekt/termometr/PCT2075/PCT2075_tb_beh.prj" "work.PCT2075_tb" 
